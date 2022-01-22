@@ -1,0 +1,9 @@
+/** @format */
+#main-page {
+  /* background-color: lightgreen; */
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0rem;
+  flex-wrap: wrap;
+  gap: 0.25em;
+}
